@@ -4,7 +4,7 @@
 
   For this project, I was provided with starter code that defined the game environment, including the maze layout, reward system, and helper classes for experience replay and visualization. I was responsible for designing and implementing the core deep Q-learning training algorithm that allowed the pirate agent to learn how to navigate the maze and reach the treasure. This included managing exploration versus exploitation, storing and replaying experiences, training a neural network to estimate Q-values, and tuning the training process so the agent could reliably solve the maze from different starting positions.
   
-**•	Connect your learning from throughout this course to the larger field of computer science: **
+** •	Connect your learning from throughout this course to the larger field of computer science: **
 
 **o	What do computer scientists do and why does it matter?**
 
